@@ -5,10 +5,9 @@
 
 
 
-    ## Descripción Proyecto
+    ## Descripción
 
-    La finalidad de este proyecto es estudiar el **comportamiento** de los clientes dentro del **programa de lealtad** de la aerolinea con el fin de aportar información sobre como interactuan los clientes con estos programas de fidelización  y como impacta su experiencia general en la aerolinea.
-    Para la realización de este ejercicio se aplicarán los conocimientos adquiridos en el modulo 3 "Transformando Datos" del Bootcamp impartido por ADALAB.
+    La finalidad de este proyecto es estudiar el **comportamiento** de los clientes dentro del **programa de lealtad** de la aerolinea con el fin de aportar información sobre como interactuan los clientes con estos programas de fidelización  y como impacta su experiencia general en la aerolinea. Para la realización de este ejercicio se han aplicado los conocimientos adquiridos en el modulo 3 "Transformando Datos" del Bootcamp impartido por ADALAB.
     
     ## Requisitos
         - VScode
@@ -29,6 +28,21 @@
     2. Clonar el repositorio de GitHub en local.
     3. Descarga los archivos csv y colocarlos en elmismo directorio que el script.
     2. Ejecutar el jupyter.
+
+    ## Fases
+
+        Fase 1: Exploración y Limpieza datos.
+            1. Cargar datos en formato csv.
+            2. Exploración inicial de los datos.
+            3. Identificación de nulos y duplicados.
+            4. Transformación de datos y homogeneización nombresde columnas.
+            4. Union de dataframe por columna ' Loyalty_number'
+        Fase 2: Visualización
+            Representación gráfica resultados.
+        Fase 3: Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo
+            1. Preparación datos.
+            2. Análisis descriptivo.
+            3. Prueba Hipótesis.
 
     ## Resultados Esperados
 
