@@ -23,7 +23,6 @@
 
     Para la realización del ejercicio disponemos de 2 bases de datos en formato csv que nos proporcionan informacción detallada sobre el perfil detallado de los clientes y sobre la actividad de vuelo de los clientes. Los nombres de los dataset son: Customer_Loyalty_History y Customer_Flight_Activity.
 
-
     ##  Instrucciones Ejecución
 
     1. Instalar Phyton y Vscode
