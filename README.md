@@ -1,4 +1,10 @@
-#  ANALISIS COMPORTAMIENTO - PROGRAMA LEALTAD AEROLINEA
+
+  <div align="center">
+  <h1>PROGRAMA LEALTAD AEROLINEA</h1>
+</div>
+
+
+
     ## Descripción Proyecto
 
     La finalidad de este proyecto es estudiar el **comportamiento** de los clientes dentro del **programa de lealtad** de la aerolinea con el fin de aportar información sobre como interactuan los clientes con estos programas de fidelización  y como impacta su experiencia general en la aerolinea.
